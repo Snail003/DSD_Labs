@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{D6D92325-4865-4B8E-B4FD-B987322F501E}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\Lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D6D92325-4865-4B8E-B4FD-B987322F501E}|Lab1\\Lab1.vcxproj|C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\source\\repos\\Lab1\\Lab1\\Lab1.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       $ \u008D )$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{D6D92325-4865-4B8E-B4FD-B987322F501E}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\Lab1.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       $ \u008D )$  \u0022     "
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D6D92325-4865-4B8E-B4FD-B987322F501E}|Lab1\\Lab1.vcxproj|C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\source\\repos\\Lab1\\Lab1\\Lab1.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       \u011F ! )$  \u0022     ",
       "RelativeMoniker": "D:0:0:{D6D92325-4865-4B8E-B4FD-B987322F501E}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\Lab1.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       \u011F ! )$  \u0022     "
     }
@@ -18,11 +22,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Lab1.rc - IDC_LAB1 [English (United States)] - Menu",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\source\\repos\\Lab1\\Lab1\\Lab1.rc",
+              "RelativeDocumentMoniker": "Lab1\\Lab1.rc",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\source\\repos\\Lab1\\Lab1\\Lab1.rc - IDC_LAB1 [English (United States)] - Menu",
+              "RelativeToolTip": "Lab1\\Lab1.rc - IDC_LAB1 [English (United States)] - Menu",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-07T17:34:01.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Lab1.rc - String Table [English (United States)]",
               "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\source\\repos\\Lab1\\Lab1\\Lab1.rc",
               "RelativeDocumentMoniker": "Lab1\\Lab1.rc",
@@ -39,7 +54,7 @@
               "RelativeDocumentMoniker": "Lab1\\Lab1.cpp",
               "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\source\\repos\\Lab1\\Lab1\\Lab1.cpp",
               "RelativeToolTip": "Lab1\\Lab1.cpp",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-21T11:20:02.175Z",
               "EditorCaption": ""
