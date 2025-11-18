@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\source\\repos\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27A835D2-5A56-4685-9B8A-46C2755CC0DD}|Lab3\\Lab3.vcxproj|C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\source\\repos\\Lab3\\Lab3\\Lab3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27A835D2-5A56-4685-9B8A-46C2755CC0DD}|Lab3\\Lab3.vcxproj|solutionrelative:Lab3\\Lab3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab3.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\source\\repos\\Lab3\\Lab3\\Lab3.cpp",
+              "RelativeDocumentMoniker": "Lab3\\Lab3.cpp",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\source\\repos\\Lab3\\Lab3\\Lab3.cpp",
+              "RelativeToolTip": "Lab3\\Lab3.cpp",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAEUAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-04T12:22:45.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
