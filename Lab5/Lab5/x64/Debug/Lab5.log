@@ -1,0 +1,18 @@
+﻿  Lab5.cpp
+C:\Users\Павел\source\repos\Lab5\Lab5\Lab5.cpp(36,9): warning C4005: 'ERROR_SUCCESS': macro redefinition
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(227,9):
+      see previous definition of 'ERROR_SUCCESS'
+  
+C:\Users\Павел\source\repos\Lab5\Lab5\Lab5.cpp(39,9): warning C4005: 'ERROR_BAD_USERNAME': macro redefinition
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(12540,9):
+      see previous definition of 'ERROR_BAD_USERNAME'
+  
+C:\Users\Павел\source\repos\Lab5\Lab5\Lab5.cpp(180,77): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Павел\source\repos\Lab5\Lab5\Lab5.cpp(205,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Павел\source\repos\Lab5\Lab5\Lab5.cpp(301,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Павел\source\repos\Lab5\Lab5\Lab5.cpp(374,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Павел\source\repos\Lab5\Lab5\Lab5.cpp(405,88): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Павел\source\repos\Lab5\Lab5\Lab5.cpp(422,70): warning C4244: 'argument': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\Павел\source\repos\Lab5\Lab5\Lab5.cpp(444,80): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Павел\source\repos\Lab5\Lab5\Lab5.cpp(228,10): warning C4101: 'recvbuf': unreferenced local variable
+  Lab5.vcxproj -> C:\Users\Павел\source\repos\Lab5\x64\Debug\Lab5.exe

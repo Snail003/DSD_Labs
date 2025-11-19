@@ -1,0 +1,4 @@
+﻿  Lab4.cpp
+C:\Users\Павел\source\repos\Lab4\Lab4\Lab4.cpp(168,61): warning C4244: 'argument': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\Павел\source\repos\Lab4\Lab4\Lab4.cpp(81,10): warning C4101: 'recvbuf': unreferenced local variable
+  Lab4.vcxproj -> C:\Users\Павел\source\repos\Lab4\x64\Debug\Lab4.exe

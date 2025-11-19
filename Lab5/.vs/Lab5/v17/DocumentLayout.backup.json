@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\source\\repos\\Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A15FDE15-EC71-4CCC-A332-C36570B01B43}|Lab5\\Lab5.vcxproj|C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\source\\repos\\Lab5\\Lab5\\Lab5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A15FDE15-EC71-4CCC-A332-C36570B01B43}|Lab5\\Lab5.vcxproj|solutionrelative:Lab5\\Lab5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab5.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\source\\repos\\Lab5\\Lab5\\Lab5.cpp",
+              "RelativeDocumentMoniker": "Lab5\\Lab5.cpp",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\source\\repos\\Lab5\\Lab5\\Lab5.cpp",
+              "RelativeToolTip": "Lab5\\Lab5.cpp",
+              "ViewState": "AgIAABEBAAAAAAAAAAAkwBkBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-18T21:40:50.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
